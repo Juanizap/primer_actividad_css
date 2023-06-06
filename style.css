@@ -1,0 +1,18 @@
+
+/*css externo*/
+input{
+    width: 50%;
+    color: antiquewhite;
+    border-radius: 4px;
+}
+label{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: blueviolet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
